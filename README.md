@@ -1,0 +1,2 @@
+# Affair-Prediction
+Logistic Regression
